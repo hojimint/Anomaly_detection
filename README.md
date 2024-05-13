@@ -1,4 +1,4 @@
-![스크린샷 2024-04-06 221326](https://github.com/DS-21-DL-Project/Trash-classification/assets/156426539/fb92e807-64fe-4327-93f8-dc275b855faf)
+![제목을-입력해주세요_-002](https://github.com/DS-21-FIN-Project/Anomaly_detection/assets/83691399/250d94bf-7b2d-4f0b-9afd-8919681deb4a)
 
 ---
 
@@ -47,7 +47,8 @@
 2. 수행자: 강수정, 강호진
 3. 수행 기간: 1개월 (2024.3.04 \~ 4.03)
 4. 목표: YOLO를 활용한 생활 폐기물 데이터 "객체 탐지 및 분류" </br>
-&nbsp;![스크린샷 2024-04-03 213341](https://github.com/DS-21-DL-Project/Trash-classification/assets/156426539/0514fc61-0ea3-4032-b819-48a099c30d5f)
+&nbsp;![asdasdasd](https://github.com/DS-21-FIN-Project/Anomaly_detection/assets/83691399/6c0c2b8e-25ce-44eb-b282-ec406ad30052)
+
 
 
 <h3  dir="auto"><a id="user-content--tech-stack-" class="anchor" aria-hidden="true" tabindex="-1" href="#-tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> Tech Stack </h3>
