@@ -29,4 +29,4 @@
 
 ## 🔥시연 영상
 
-[![Video Label](http://img.youtube.com/vi/W1gfykFzkDc?si=EehAJtXZE8Aa-Gu9/0.jpg)](https://youtu.be/W1gfykFzkDc?si=EehAJtXZE8Aa-Gu9)
+[![Video Label](http://img.youtube.com/vi/W1gfykFzkDc/0.jpg)](https://youtu.be/W1gfykFzkDc)
